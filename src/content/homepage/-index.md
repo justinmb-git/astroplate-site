@@ -8,7 +8,7 @@ banner:
   image: /images/banner.png
   button:
     enable: true
-    label: Fork Deploy and Edit Online 🚀
+    label: Fork Deploy and then Edit Online 🚀
     link: >-
       https://app.sitepins.com/new/clone?name=Astroplate&repository=https://github.com/zeon-studio/astroplate/
 features:
@@ -63,5 +63,6 @@ features:
       enable: false
       label: ''
       link: ''
+draft: false
 ---
 ​
